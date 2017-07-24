@@ -6,5 +6,11 @@
 //
 //
 
-#include <stdio.h>
+#include <iostream>
+
+int main (int args, char* argc[]){
+	std::cout << "Hello World";
+	return 0;
+}
+
 
