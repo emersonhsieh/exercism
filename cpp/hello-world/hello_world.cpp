@@ -1,16 +1,11 @@
-//
-//  hello_world.cpp
-//  
-//
-//  Created by Emerson Hsieh on 7/23/17.
-//
-//
+#include <string>
+#include "hello_world.h"
 
-#include <iostream>
-
-int main (int args, char* argc[]){
-	std::cout << "Hello World";
-	return 0;
+namespace hello_world {
+    
+    std::string hello()
+    {
+        return std::string("Hello, World!");
+    }
+    
 }
-
-

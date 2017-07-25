@@ -1,0 +1,3 @@
+/Users/emersonhsieh/exercism/cpp/gigasecond/build/CMakeFiles/gigasecond.dir
+/Users/emersonhsieh/exercism/cpp/gigasecond/build/CMakeFiles/ALL_BUILD.dir
+/Users/emersonhsieh/exercism/cpp/gigasecond/build/CMakeFiles/ZERO_CHECK.dir

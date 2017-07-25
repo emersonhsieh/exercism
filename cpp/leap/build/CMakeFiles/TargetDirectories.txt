@@ -1,0 +1,3 @@
+/Users/emersonhsieh/exercism/cpp/leap/build/CMakeFiles/leap.dir
+/Users/emersonhsieh/exercism/cpp/leap/build/CMakeFiles/ALL_BUILD.dir
+/Users/emersonhsieh/exercism/cpp/leap/build/CMakeFiles/ZERO_CHECK.dir
