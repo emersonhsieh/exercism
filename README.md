@@ -1,3 +1,3 @@
-# exercism
+# Exercism
 
-This is tester
+Solutions to problems at Exercism.io
