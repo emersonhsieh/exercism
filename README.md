@@ -1,3 +1,3 @@
 # Exercism
 
-Solutions to problems at Exercism.io
+Solutions to problems at [exercism.io](http://exercism.io/)
